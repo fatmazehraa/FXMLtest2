@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane id="AnchorPane" prefHeight="90" prefWidth="300" xmlns:fx="http://javafx.com/fxml/1" fx:controller="javafxapplication_test.FXMLDocumentController">
+    <children>
+        <Button layoutX="0" layoutY="0" text="Knapp 1" prefWidth="100"/>
+        <Button layoutX="100" layoutY="0" text="Knapp 2" prefWidth="100"/>
+        <Button layoutX="200" layoutY="0" text="Knapp 3" prefWidth="100"/>
+        <Button layoutX="200" layoutY="30" text="Knapp 4" prefWidth="100"/>
+        <Button layoutX="200" layoutY="60" text="Knapp 5" prefWidth="100"/>
+        <Button layoutX="0" layoutY="30" text="Knapp 6" prefWidth="200" prefHeight="60"/>
+                <Label layoutX="126" layoutY="10" minHeight="16" minWidth="69" fx:id="label" />
+
+    </children>
+        
+   
+</AnchorPane>
